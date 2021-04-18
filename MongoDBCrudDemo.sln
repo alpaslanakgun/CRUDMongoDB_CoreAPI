@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBCrudDemo", "MongoDBCrudDemo\MongoDBCrudDemo.csproj", "{46FB6F51-EAE8-4D89-9455-ADB7090A326C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApiMongoCrud", "CoreApiMongoCrud\CoreApiMongoCrud.csproj", "{D63B4C2E-EDA7-4850-9E0F-A7650839A4CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FB6F51-EAE8-4D89-9455-ADB7090A326C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FB6F51-EAE8-4D89-9455-ADB7090A326C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FB6F51-EAE8-4D89-9455-ADB7090A326C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FB6F51-EAE8-4D89-9455-ADB7090A326C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63B4C2E-EDA7-4850-9E0F-A7650839A4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63B4C2E-EDA7-4850-9E0F-A7650839A4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63B4C2E-EDA7-4850-9E0F-A7650839A4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63B4C2E-EDA7-4850-9E0F-A7650839A4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B1B427-0F5D-42EB-8BC9-4130DC902CF6}
+	EndGlobalSection
+EndGlobal
